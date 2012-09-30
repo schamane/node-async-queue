@@ -1,5 +1,4 @@
-var Async = require('../'),
-	async;
+var Async = require('../');
 
 (new Async(
 	function() {
